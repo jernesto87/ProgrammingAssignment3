@@ -13,5 +13,6 @@ Once the previous process is completed, the modified names are applied to the me
 
 Ultimately, an independent dataset with the average of each variable per each activity and subject is generated. Once the final dataset is generated, it is written to the current working directory and also displayed in console.
 
+IMPORTANT: X_test and X_train files missing due to maximum file upload restriction on Github.
 
 
